@@ -1,2 +1,2 @@
 # pubg-leaderboard
-DEsigned using HTML and CSS
+Designed using HTML and CSS
